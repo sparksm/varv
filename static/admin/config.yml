@@ -74,7 +74,7 @@ collections:
               name: "endorsements",
               widget: "list",
               fields:
-                - { label: "Name", name: "name", widget: "string" }
+                - { label: "Name", name: "name", widget: "string" },
                 - { label: "District", name: "district", widget: "string" }
             }
       - file: "src/pages/about/index.md"
