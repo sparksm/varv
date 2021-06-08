@@ -59,6 +59,24 @@ collections:
                 ],
             }
           - { label: Description, name: description, widget: string }
+      - file: "src/pages/endorsements/index.md"
+        label: "Endorsements"
+        name: "endorsementList"
+        fields: 
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "endorsements-page",
+            }
+          - {
+              label: "Endorsements",
+              name: "endorsements",
+              widget: "list",
+              fields:
+                - { label: "Name", name: "name", widget: "string" }
+                - { label: "District", name: "district", widget: "string" }
+            }
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
