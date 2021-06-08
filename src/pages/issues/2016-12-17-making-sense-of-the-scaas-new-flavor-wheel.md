@@ -4,7 +4,7 @@ title: Meatless Monday In Richmond Public Schools
 date: 2021-06-08T18:41:57.822Z
 description: VARV supports a Meatless Monday program throughout Richmond Public Schools.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: https://varv.org/gallery_gen/65790421c0c7e4a6d7f8c5946cd36ee8_996x1008.jpg
 tags: []
 ---
 ![](https://varv.org/gallery_gen/65790421c0c7e4a6d7f8c5946cd36ee8_996x1008.jpg)
