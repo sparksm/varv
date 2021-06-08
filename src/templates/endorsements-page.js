@@ -41,12 +41,13 @@ EndorsementsPageTemplate.propTypes = {
 
 const EndorsementsPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
+  console.log({ data });
 
   return (
     <Layout>
       <EndorsementsPageTemplate
         title={frontmatter.title}
-        endorsements={frontmatter.endorsementList.endorsements}
+        endorsements={frontmatter.endorsements}
       />
     </Layout>
   );
@@ -67,11 +68,9 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { templateKey: { eq: "endorsements-page" } }) {
       frontmatter {
         title
-        endorsementList {
-          endorsements {
-            name
-            district
-          }
+        endorsements {
+          name
+          district
         }
       }
     }
