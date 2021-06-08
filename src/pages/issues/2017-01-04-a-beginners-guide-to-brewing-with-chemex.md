@@ -1,29 +1,12 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Banning The Sale Of Fur
+date: 2021-06-07T18:42:33.041Z
+description: VARV supports banning the sale of real animal fur in the City of Richmond.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
-tags:
-  - brewing
-  - chemex
+featuredimage: https://varv.org/gallery_gen/028c568fae811cad2daa1e95a9b08a65_1020x1020.4081632653.jpg
+tags: []
 ---
-![chemex](/img/chemex.jpg)
+![chemex](https://varv.org/gallery_gen/028c568fae811cad2daa1e95a9b08a65_1020x1020.4081632653.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
-
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
-
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Fur farms breed and confine animals in tiny, filthy cages where they suffer intense stress and unimaginable cruelty. They are beaten, bludgeoned, electrocuted, and skinned alive. Trapping animals in the wild is no better — animals are trapped in cruel leg hold traps where they can suffer for days in excruciating pain — starving, until a trapper returns to shoot or bludgeon them to death. Coyotes are known to attempt to chew off their own legs trying to break free. Many other animals are unintentionally caught and killed in these traps, including household pets. California has enacted a ban on the sale of fur. Several countries such as Norway, Croatia, Czech Republic, Germany, Japan, and the U.K. have taken steps to close fur farms. With public awareness and innovative alternatives on the rise, many popular designers have stopped using all animal fur. There are ethical alternatives to fur which are not only stylish and warm but environmentally friendly. Over the past couple of years, the two most notable fur retailers in Richmond have either moved out of the city or have gone out of business, which makes now an ideal time to ban the sale of the cruel product. This would set a precedent that Richmond is an animal friendly city to anyone who would like to sell fur here in the future, without financially disrupting businesses currently in operation.
