@@ -67,16 +67,6 @@ collections:
                 [
                   { label: Heading, name: heading, widget: string },
                   { label: Description, name: description, widget: text },
-                  {
-                    label: Blurbs,
-                    name: blurbs,
-                    widget: list,
-                    fields:
-                      [
-                        { label: Image, name: image, widget: image },
-                        { label: Text, name: text, widget: text },
-                      ],
-                  },
                 ],
             }
           - {
