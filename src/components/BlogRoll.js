@@ -12,7 +12,7 @@ class BlogRoll extends React.Component {
       <div className="columns is-multiline">
         {posts &&
           posts.map(({ node: post }) => (
-            <div className="is-parent column is-6" key={post.id}>
+            <div className="is-parent column is-12" key={post.id}>
               <article
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? "is-featured" : ""
@@ -36,20 +36,12 @@ class BlogRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
+                    <p>{post.excerpt}</p>
+                    <Link className="button" to={post.fields.slug}>
+                      Keep Reading →
+                    </Link>
                   </p>
                 </header>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
               </article>
             </div>
           ))}
@@ -76,7 +68,7 @@ export default () => (
         ) {
           edges {
             node {
-              excerpt(pruneLength: 400)
+              excerpt(pruneLength: 300)
               id
               fields {
                 slug
@@ -84,7 +76,6 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
                 featuredpost
                 featuredimage
               }

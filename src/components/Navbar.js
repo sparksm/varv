@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import logo from "../img/logo.svg";
+// import logo from "../img/logo.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,7 +41,11 @@ const Navbar = class extends React.Component {
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="VARV" style={{ width: "88px" }} />
+              <img
+                src="https://varv.org/gallery_gen/89bb5a5e9a60921d4d0dd08942038267_1284x1180.png"
+                alt="VARV"
+                style={{ width: "88px" }}
+              />
             </Link>
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}

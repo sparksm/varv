@@ -11,7 +11,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
-            src={logo}
+            src="https://varv.org/gallery_gen/89bb5a5e9a60921d4d0dd08942038267_1284x1180.png"
             alt="VARV"
             style={{ width: "14em", height: "10em" }}
           />
