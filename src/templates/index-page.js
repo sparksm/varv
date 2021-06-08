@@ -1,9 +1,8 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 
 import Layout from "../components/Layout";
-import BlogRoll from "../components/BlogRoll";
 
 export const IndexPageTemplate = ({
   image,
@@ -37,9 +36,8 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            boxShadow:
-              "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-            backgroundColor: "rgb(255, 68, 0)",
+            boxShadow: "#012d6b 0.5rem 0px 0px, #012d6b -0.5rem 0px 0px",
+            backgroundColor: "#012d6b",
             color: "white",
             lineHeight: "1",
             padding: "0.25em",
@@ -50,9 +48,8 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            boxShadow:
-              "rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px",
-            backgroundColor: "rgb(255, 68, 0)",
+            boxShadow: "#012d6b 0.5rem 0px 0px, #012d6b -0.5rem 0px 0px",
+            backgroundColor: "#012d6b",
             color: "white",
             lineHeight: "1",
             padding: "0.25em",
@@ -82,17 +79,6 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3>
                     <p>{description}</p>
-                  </div>
-                </div>
-                <div className="column is-12">
-                  <h3 className="has-text-weight-semibold is-size-2">
-                    Agenda Issues
-                  </h3>
-                  <BlogRoll />
-                  <div className="column is-12 has-text-centered">
-                    <Link className="btn" to="/issues">
-                      Read more
-                    </Link>
                   </div>
                 </div>
               </div>

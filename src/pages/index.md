@@ -1,19 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Virginia Animal Rights Voters
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Virginia Animal Rights Voters
+subheading: Supporting Animal Rights
 mainpitch:
-  title: Why Kaldi
+  title: About Us
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Formed in 2020, Virginia Animal Rights Voters is a grassroots organization
+    dedicated to representing the interests of non-human animals across Virginia
+    through policy and politics. Presently, our focus is on the  Richmond City
+    Election, but we aim to expand our efforts in the near future.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Formed in 2020, Virginia Animal Rights Voters is a grassroots organization
+  dedicated to representing the interests of non-human animals across Virginia
+  through policy and politics. Presently, our focus is on the  Richmond City
+  Election, but we aim to expand our efforts in the near future.
 ---
