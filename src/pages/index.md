@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Virginia Animal Rights Voters
-image: /img/home-jumbotron-1.jpg
+image: /img/pexels-arthouse-studio-4339447.jpg
 heading: Virginia Animal Rights Voters
 subheading: Supporting Animal Rights
 mainpitch:
